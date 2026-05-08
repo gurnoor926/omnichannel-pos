@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 week 1 -:
 # Omnichannel POS System
 
@@ -84,3 +86,4 @@ Raunak Chirania
 Gurnoor Singh
 Akshay Sharma
 Aman Thakur
+>>>>>>> main
